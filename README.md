@@ -46,7 +46,7 @@ The platform consists of four main components:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/a/claudeplexity.git
+   git clone https://github.com/ananyakaligal/claudeplexity.git
    cd claudeplexity
 2. Set up environment variables for API keys.
 3. Install dependencies:
